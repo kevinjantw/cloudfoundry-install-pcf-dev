@@ -1,6 +1,9 @@
 # Installation-PCF-Dev
 A installation guide of Pivotal Cloud Foundry dev environment
 
+## Contact
+kevinjan@iii.org.tw
+
 ## Install cf-cli
 https://github.com/cloudfoundry/cli/releases  
 
@@ -31,6 +34,6 @@ cf dev suspend
 cf dev resume
 ```
 
-## Source
+## Reference
 https://docs.pivotal.io/pcf-dev/install-windows-legacy.html  
 https://docs.pivotal.io/pcf-dev/import-ova.html
