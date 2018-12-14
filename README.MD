@@ -12,7 +12,6 @@ cf dev version
 https://network.pivotal.io/products/pcfdev#/releases/1622
 
 ## Import ovf
-https://docs.pivotal.io/pcf-dev/import-ova.html
 ```shell=
 cf dev import ~/pcfdev-v0.xxx.0.ova
 ```
@@ -34,3 +33,4 @@ cf dev resume
 
 ## Source
 https://docs.pivotal.io/pcf-dev/install-windows-legacy.html
+https://docs.pivotal.io/pcf-dev/import-ova.html
